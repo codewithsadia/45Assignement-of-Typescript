@@ -1,0 +1,20 @@
+{
+  "name": "assignment45question",
+  "version": "1.0.0",
+  "description": "",
+  "main": "q28.js",
+  "type": "module",
+  "scripts": {
+    "test": "echokikj \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "lsc",
+  "devDependencies": {
+    "@types/node": "^20.11.25"
+  },
+  "dependencies": {
+    "esrun": "3.2.26",
+    "inquirer": "^9.2.15"
+  }
+}
